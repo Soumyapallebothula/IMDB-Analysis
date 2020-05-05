@@ -1,4 +1,4 @@
-# IMDB-Analysis
+# IMDB Data And Analysis
 This repository contains analysis of IMDB data from multiple sources and analysis of movies/cast/box office revenues, movie brands and franchises
 To setup this project install the following softwares
 

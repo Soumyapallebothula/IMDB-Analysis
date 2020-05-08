@@ -33,6 +33,6 @@ stg_ml_tables.sql
 
 Open Talend and setup your database connections and input file connections
 
-When the connections are successfull run the main job
+When the connections are successfull run the master job
 
 Perform Visualizations in Tableau and PowerBI

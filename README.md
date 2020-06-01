@@ -13,19 +13,28 @@ Microsoft PowerBI
 
 ## Dataset Links:
 https://datasets.imdbws.com/
+
 https://www.boxofficemojo.com/franchise/?ref_=bo_nb_fr_secondarytab
+
 https://www.boxofficemojo.com/brand/?ref_=bo_nb_frs_secondarytab
+
 https://grouplens.org/datasets/movielens/25m/
+
 https://www.the-numbers.com/movies/franchises
+
 https://www.the-numbers.com/movies/franchise/Marvel-Cinematic-Universe#tab=summary
+
 https://www.the-numbers.com/movie/Avengers-The-(2012)#tab=box-office
 
 ## Code Walkthrough:
 
 Step 1 : Run following script in SSMS to setup the staging database
 The Number - stage tables.sql
+
 stg imdb tables - core tables.sql
+
 stg imdb tables expanded part 2.sql
+
 stg_ml_tables.sql
 
 Step 2 : Open Talend and setup your database connections and input file connections
@@ -36,8 +45,11 @@ Refer to Tableau workbook for checking visualizations and new use cases will be 
 
 ## References:
 https://elearning.tableau.com/
+
 https://help.talend.com/reader/KxVIhxtXBBFymmkkWJ~O4Q/8RlpZdAdKhP0IaMHXRV7yw
+
 https://www.talend.com/
+
 https://grouplens.org/datasets/movielens/
 
 
